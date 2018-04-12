@@ -1,0 +1,15 @@
+https://github.com/DexterInd/GoPiGo3/blob/master/Software/Python/easygopigo3.py
+--Has some examples at the bottom on how to rotate a servo by a defined degree angle (using easygopigo3 ONLY)
+
+https://github.com/DexterInd/GoPiGo3/blob/master/Software/Python/Examples/easy_Motors.py
+--manipulating the motors using easygopigo3
+
+https://github.com/DexterInd/GoPiGo3/blob/master/Software/Python/Examples/easy_Distance_Sensor.py
+--getting distance motor sensors readings using easygopigo3
+
+https://github.com/DexterInd/GoPiGo3/blob/master/Software/Python/Examples/Motor.py
+--manipulating the motors NOT using easygopigo3 (since this is pretty basic not thaaat much more confusing but the easygopigo is more intuative)
+
+https://github.com/DexterInd/GoPiGo3/blob/master/Software/Python/Examples/Servo.py
+--roating a servo NOT using easygopigo3 (doesn't have a defined way to rotate by degree)
+
